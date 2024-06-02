@@ -1,4 +1,4 @@
-# Hello World! 👋
+# Information
 
 Hi there, I'm Zikri, also known as `Zii` on the web. I'm a passionate website developer. interested to be developer.
 
