@@ -4,7 +4,7 @@ Hi there, I'm Zikri, also known as `Zii` on the web. I'm a passionate website de
 
 ## About Me
 
-- 🎓 I Still on High School
+- 🎓 I Still on Senior High School
 - 💻 I Just joined on programming, maybe in a year.
 - 🔭 I'm currently focused on web development.
 - 🌱 I'm learning about artificial intelligence and game development.
