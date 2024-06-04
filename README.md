@@ -1,26 +1,20 @@
-# Information
+# 📍 Hi, There !
 
 Hi there, I'm Zikri, also known as `Zii` on the web. I'm a passionate website developer. interested to be developer.
 
-## About Me
+## 🎭 About Me
 
 - 🎓 I Still on Senior High School
 - 💻 I Just joined on programming, maybe in a year.
 - 🔭 I'm currently focused on web development.
 - 🌱 I'm learning about artificial intelligence and game development.
 
-## Languages and Technologies I'm Familiar With
+## 💻 Languages and Technologies I'm Familiar With
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Javascript
 - **Databases:** MongoDB, MySQL
 - **Tools:** Git, Visual Studio Code
-
-## Recent Projects
-
-- [Normalize | Site](link): Coming Soon
-- [ZResto](link): Coming Soon
-- [Calculator](link): Coming Soon
 
 ## Get in Touch
 
