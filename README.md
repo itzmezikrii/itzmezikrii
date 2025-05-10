@@ -18,8 +18,4 @@
 
 ![itzmezikrii GitHub stats](https://github-readme-stats.vercel.app/api?username=itzmezikrii&show_icons=true&theme=tokyonight)
 
-<div align="center">
-  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzmezikrii&hide_progress=true&theme=tokyonight)
-
-</div>
